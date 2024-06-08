@@ -1,14 +1,13 @@
-import Astha from './Astha.png';
+import love from './love.jpg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={Astha} className="App-Astha" alt="Astha" />
+        <img src={love} className="App-love" alt="love" />
         <p>
-        Astha Hannas
-        Kampus pembangunan karakter bangsa Indonesia.
+        "Love pink" merujuk pada perasaan cinta atau kasih sayang yang terkait dengan warna pink.
         </p>
         <a
           className="App-link"
@@ -16,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          MORE INFO
         </a>
       </header>
     </div>
