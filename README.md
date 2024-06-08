@@ -1,3 +1,13 @@
+![Screenshot (448)](https://github.com/kaniadhea/praktikum10pdw/assets/127089007/51ec7cce-d4bd-4ad0-85e1-8db94622384d)
+
+![image](https://github.com/kaniadhea/praktikum10pdw/assets/127089007/90660d1c-d981-40ad-8a3a-bc8ac7a1d2d0)
+
+![image](https://github.com/kaniadhea/praktikum10pdw/assets/127089007/6aecd963-a24a-4388-9ce1-b89c60b9a9ed)
+
+![image](https://github.com/kaniadhea/praktikum10pdw/assets/127089007/2c48af9d-2c30-444d-826e-f957245ead9e)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
